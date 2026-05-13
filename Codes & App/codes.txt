@@ -1,0 +1,25 @@
+1.
+first you open the VSC (Visual Studio Code) create a terminal and then type-
+python -m aiosmtpd -n -l 127.0.0.1:1025
+
+2.
+after that, create another terminal and then type-
+python app.py
+
+3.
+if DEFENDER comes in then do this- like port 1435
+How to Open Port 0000 in Windows Firewall
+Open Firewall Settings:
+Press the Windows Key and type wf.msc, then press Enter.
+This opens "Windows Defender Firewall with Advanced Security."
+Create a New Rule:
+Click on Inbound Rules in the left-hand sidebar.
+Click on New Rule... in the right-hand "Actions" sidebar.
+Rule Configuration:
+Rule Type: Select Port, then click Next.
+Protocol and Ports: Select TCP. In "Specific local ports," type 1435. Click Next.
+Action: Select Allow the connection. Click Next.
+Profile: Keep all three checked (Domain, Private, Public). Click Next.
+Name: Give it a name like Python OTP App so you remember it later. Click Finish.
+
+
