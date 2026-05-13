@@ -7,3 +7,6 @@ It generates a 4-digit code in VSC and then you have to send that and then the r
 
 Note:
 Please see the 'codes-and-steps.txt'
+
+Also please download the '.ZIP' file to program it.
+WARNING: NOT TO BE IN SALE (NO PLAGRISM)
