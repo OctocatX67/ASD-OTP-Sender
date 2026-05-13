@@ -36,5 +36,5 @@ def verify():
         return "<h1>❌ Wrong code!</h1>"
     return '<form action="/verify" method="POST">Enter Code: <input name="u_otp"><button>Verify</button></form>'
 
-app.run(host='0.0.0.0', port=4021)
+app.run(host='0.0.0.0', port=1707)
 
